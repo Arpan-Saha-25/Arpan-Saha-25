@@ -1,6 +1,6 @@
 
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguI2HR1yPeA7RlONdigq49HDILIqcg75j3Xlg2vYgU7zjA9QLbLGJKIFBRLK9smn_sv6KuG_Yy-qW_PDZ4KnbPj0rtZQF4u38oTXHBA00zju1sFdnEaJZcwJo74II4mPsecUca-Dk6i4sOTrLRAFcgd2r1S79IwU7cvdrk2e1iqi3XHLeG8K9DgX_AH_aj/s945/github-header-image%20(1).png)](https://github.com/Arpan-Saha-25)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A CS Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/45010/screenshots/14281687/media/79f87d23670e2144bd2d5e2742185c8e.png?resize=1000x750&vertical=center">
 
 
